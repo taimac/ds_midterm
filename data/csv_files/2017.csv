@@ -1,4 +1,4 @@
-Date,Inv,Est,Order,Client,Descrip,Esp,Larg,Comp,Piece_price,KG_price,Quantity,Total
+Date,Inv,Est,Order,Client,Descrip,Thk,Wd,Length,Piece_price,KG_price,Quantity,Total
 01-02-2017,0199000,11,240306-10,KEKO,"CHAPA FQ 2,00 SAE1010","2,0000","1.200,0000","3.000,0000","0,00","3,66","5.490,00","21.098,07"
 01-02-2017,0198966,11,238267-20,UTIMIL,"TIRA ZC BOB 0,80 NBR7008 ZC CR NO REV","0,8000","54,0000","0,0000","0,00","4,98","2.292,00","11.984,87"
 01-03-2017,0200588,11,240440-10,KEKO,"CHAPA FQ 2,00 SAE1010","2,0000","1.200,0000","3.000,0000","0,00","3,69","1.505,00","5.831,12"
